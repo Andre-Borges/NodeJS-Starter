@@ -1,3 +1,5 @@
+prettier -> auto identação do código
+
 npm init -y
 
 npm install express
@@ -15,3 +17,5 @@ docker ps -> imagens rodando
 docker ps -a -> todas imagens, até as que não estão rodando
 
 docker start 'nome_imagem' -> startar container
+
+npm install require-dir -> require automaticamente de tudo que estiver na pasta
