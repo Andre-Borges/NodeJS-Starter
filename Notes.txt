@@ -19,3 +19,7 @@ docker ps -a -> todas imagens, até as que não estão rodando
 docker start 'nome_imagem' -> startar container
 
 npm install require-dir -> require automaticamente de tudo que estiver na pasta
+
+npm install mongoose-paginate -> paginação
+
+npm install cors -> acesso externo
