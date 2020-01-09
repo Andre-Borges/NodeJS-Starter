@@ -10,10 +10,16 @@
 
 	```sh
 	$ docker pull mongo
-  $ docker run --name mongodb -p 27017:27017 -d mongo
-  $ docker start mongodb
 	```
-
+	
+	```sh
+	$ docker run --name mongodb -p 27017:27017 -d mongo
+	```
+	
+	```sh
+	$ docker start mongodb
+	```
+	
 3. Instale todas as dependências:
 
 	```sh
